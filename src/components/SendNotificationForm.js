@@ -41,6 +41,10 @@ import axios from 'axios'
             <div>
                 <form onSubmit={this.submitHandler}> 
                 <div style={{float : 'center', marginTop : '50px'}}>
+                    <label><b>Notification Admin Dashboard</b></label>
+                </div>
+
+                <div style={{float : 'center', marginTop : '50px'}}>
                     <label>Enter Title:</label>
                 </div>
                     <div style={{float : 'center', marginTop : '15px'}}>
